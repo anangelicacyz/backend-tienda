@@ -1,0 +1,8 @@
+// id name   price  units
+// 1  huevo    10    500
+// 2  leche    25    200
+
+# tabla usuarios
+id name   lastname      email 
+1  david    zl      david@gmail.com
+2  anita    cyz     anita@gmail.com
