@@ -1,8 +1,10 @@
-// id name   price  units
-// 1  huevo    10    500
-// 2  leche    25    200
+//quiero saber cuando se creo el producto (createdAt)
+//quiero saber cuando se edito el producto (updatedAt)  
+//quiero saber cual fue el usuario que creo el producto
+//quiero saber cual fue el usuario que edito el producto
+quiero que los productos tenga a que proveedor pertenecen
 
-# tabla usuarios
-id name   lastname      email 
-1  david    zl      david@gmail.com
-2  anita    cyz     anita@gmail.com
+
+usuarios id 
+productos id  createdByUserId updatedByUserId
+proveedores id
